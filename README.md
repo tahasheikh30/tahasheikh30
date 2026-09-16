@@ -20,10 +20,10 @@ $ cat about.txt
 
 Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 
-- Currently building **[Attendance Intelligence](https://github.com/tahasheikh30/attendance-intelligence)**
+- Currently building **[GIMS](https://github.com/tahasheikh30/GIMS)**
 - Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)**
-- Learning **something specific**
-- Fun fact: **something that is actually a fun fact**
+- Learning **Project Management**
+- Fun fact: **The easiest way to impress me is bring me dessert**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,react,fastapi,postgres,git,github,vscode,html,css&perline=9">
