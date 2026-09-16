@@ -2,13 +2,13 @@
 
 <img src="assets/portrait.svg" width="180" alt="portrait">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=YOUR_NAME;Management+Trainee+Officer;Building+things+that+save+people+time" alt="typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Taha Sheikh;Management+Trainee+Officer;Building+things+that+save+people+time" alt="typing banner">
 
 <a href="https://linkedin.com/in/taha-sheikh-a3520921a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:tahasheikh30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=tahasheikh30&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -20,7 +20,7 @@ $ cat about.txt
 
 Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 
-- Currently building **[Attendance Intelligence](https://github.com/YOUR_USERNAME/attendance-intelligence)**
+- Currently building **[Attendance Intelligence](https://github.com/tahasheikh30/attendance-intelligence)**
 - Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)**
 - Learning **something specific**
 - Fun fact: **something that is actually a fun fact**
@@ -53,8 +53,8 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 <div align="center">
 <img src="assets/metrics.calendar.svg" width="100%" alt="contribution calendar">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg#gh-dark-mode-only" width="100%" alt="snake">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-light.svg#gh-light-mode-only" width="100%" alt="snake">
+<img src="https://raw.githubusercontent.com/tahasheikh30/tahasheikh30/output/snake-dark.svg#gh-dark-mode-only" width="100%" alt="snake">
+<img src="https://raw.githubusercontent.com/tahasheikh30/tahasheikh30/output/snake-light.svg#gh-light-mode-only" width="100%" alt="snake">
 </div>
 
 ## Stats
@@ -75,27 +75,27 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+<a href="https://github.com/tahasheikh30/IGIAttendanceSystem">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-PROJECT_ONE-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-PROJECT_ONE-light.svg">
-  <img src="assets/card-PROJECT_ONE-dark.svg" width="420" alt="PROJECT_ONE">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-IGIAttendanceSystem-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-IGIAttendanceSystem-light.svg">
+  <img src="assets/card-IGIAttendanceSystem-dark.svg" width="420" alt="IGIAttendanceSystem">
 </picture>
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+<a href="https://github.com/tahasheikh30/GIMS">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-PROJECT_TWO-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-PROJECT_TWO-light.svg">
-  <img src="assets/card-PROJECT_TWO-dark.svg" width="420" alt="PROJECT_TWO">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-GIMS-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-GIMS-light.svg">
+  <img src="assets/card-GIMS-dark.svg" width="420" alt="GIMS">
 </picture>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
+<a href="https://github.com/tahasheikh30/PROJECT_THREE">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-PROJECT_THREE-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-PROJECT_THREE-light.svg">
@@ -104,7 +104,7 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
+<a href="https://github.com/tahasheikh30/PROJECT_FOUR">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-PROJECT_FOUR-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-PROJECT_FOUR-light.svg">
@@ -119,9 +119,9 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 
 | project | stack | link |
 |---|---|---|
-| PROJECT_ONE | React, FastAPI | [repo](https://github.com/YOUR_USERNAME/PROJECT_ONE) |
-| PROJECT_TWO | Python, Tkinter | [repo](https://github.com/YOUR_USERNAME/PROJECT_TWO) |
-| PROJECT_THREE | Power Automate, Forms | [repo](https://github.com/YOUR_USERNAME/PROJECT_THREE) |
-| PROJECT_FOUR | Python | [repo](https://github.com/YOUR_USERNAME/PROJECT_FOUR) |
+| IGIAttendanceSystem | React, FastAPI | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
+| GIMS | Python, Tkinter | [repo](https://github.com/tahasheikh30/GIMS) |
+| PROJECT_THREE | Power Automate, Forms | [repo](https://github.com/tahasheikh30/PROJECT_THREE) |
+| PROJECT_FOUR | Python | [repo](https://github.com/tahasheikh30/PROJECT_FOUR) |
 
 </sub>
