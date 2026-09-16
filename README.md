@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=YOUR_NAME;Management+Trainee+Officer;Building+things+that+save+people+time" alt="typing banner">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/taha-sheikh-a3520921a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:tahasheikh30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39d353&label=profile+views" alt="profile views">
@@ -18,7 +18,7 @@
 $ cat about.txt
 ```
 
-Hi, I'm **YOUR_NAME**. One or two lines about what you build and why.
+Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 
 - Currently building **[Attendance Intelligence](https://github.com/YOUR_USERNAME/attendance-intelligence)**
 - Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)**
