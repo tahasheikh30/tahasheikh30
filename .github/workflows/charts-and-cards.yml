@@ -1,0 +1,44 @@
+name: charts-and-cards
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: install deps
+        run: pip install pillow
+
+      - name: self-rated radar
+        run: python scripts/radar.py --data assets/skills.json -o assets/radar
+
+      - name: language radar (from real repo bytes)
+        run: |
+          python scripts/radar.py --github ${{ github.repository_owner }} -o assets/radar-langs \
+            --limit 7 --values --curve 0.4 \
+            --exclude "shell,makefile,dockerfile,batchfile,procfile"
+
+      - name: stat card + project cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python scripts/cards.py --user ${{ github.repository_owner }} --out assets
+
+      - name: commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --staged --quiet || git commit -m "chore: refresh charts and cards"
+          git push

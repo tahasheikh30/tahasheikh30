@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Profile README preview</title>
+<style>
+  body { font-family: -apple-system, sans-serif; margin: 0; padding: 24px; background: #f6f8fa; }
+  h1 { font-size: 18px; }
+  .row { display: flex; gap: 16px; margin-bottom: 28px; flex-wrap: wrap; }
+  .card { flex: 1; min-width: 280px; border-radius: 10px; padding: 16px; overflow: auto; }
+  .card.dark { background: #0d1117; }
+  .card.light { background: #ffffff; border: 1px solid #d0d7de; }
+  .card img { max-width: 100%; }
+  .label { font-size: 12px; color: #57606a; margin-bottom: 6px; }
+  button { margin: 4px 0 16px; padding: 6px 12px; cursor: pointer; }
+</style>
+</head>
+<body>
+  <h1>Asset preview — dark card left, light card right</h1>
+  <p>Reload this file (or click "replay the load-in") after regenerating any asset.</p>
+
+  <div id="app"></div>
+
+  <script>
+    const assets = [
+      { label: "portrait (color)", file: "assets/portrait.svg", single: true },
+      { label: "portrait (monochrome, animated)", file: "assets/portrait-mono", single: false },
+      { label: "self-rated radar", file: "assets/radar", single: false },
+      { label: "language radar", file: "assets/radar-langs", single: false },
+      { label: "stat card", file: "assets/stats", single: false },
+    ];
+
+    const app = document.getElementById("app");
+    for (const a of assets) {
+      const section = document.createElement("div");
+      const title = document.createElement("div");
+      title.className = "label";
+      title.textContent = a.label;
+      section.appendChild(title);
+
+      const btn = document.createElement("button");
+      btn.textContent = "replay the load-in";
+      btn.onclick = () => { row.innerHTML = row.innerHTML; };
+      section.appendChild(btn);
+
+      const row = document.createElement("div");
+      row.className = "row";
+
+      const darkCard = document.createElement("div");
+      darkCard.className = "card dark";
+      const lightCard = document.createElement("div");
+      lightCard.className = "card light";
+
+      if (a.single) {
+        darkCard.innerHTML = `<img src="${a.file}?t=${Date.now()}">`;
+        lightCard.innerHTML = `<img src="${a.file}?t=${Date.now()}">`;
+      } else {
+        darkCard.innerHTML = `<img src="${a.file}-dark.svg?t=${Date.now()}">`;
+        lightCard.innerHTML = `<img src="${a.file}-light.svg?t=${Date.now()}">`;
+      }
+
+      row.appendChild(darkCard);
+      row.appendChild(lightCard);
+      section.appendChild(row);
+      app.appendChild(section);
+    }
+  </script>
+</body>
+</html>

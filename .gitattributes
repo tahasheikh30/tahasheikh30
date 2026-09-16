@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Force LF everywhere. On Windows, a CRLF line ending inside a YAML `run:`
+# block becomes part of the shell command on the (Linux) Actions runner,
+# and fails with "command not found". Do not remove this file, and don't
+# let an editor "helpfully" convert these files back to CRLF.
+* text=auto eol=lf
+
+*.svg -diff
+*.png binary
+*.jpg binary
