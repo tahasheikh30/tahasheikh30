@@ -104,11 +104,11 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/tahasheikh30/PROJECT_FOUR">
+<a href="https://github.com/tahasheikh30/Portfolio">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-PROJECT_FOUR-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-PROJECT_FOUR-light.svg">
-  <img src="assets/card-PROJECT_FOUR-dark.svg" width="420" alt="PROJECT_FOUR">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-Portfolio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-Portfolio-light.svg">
+  <img src="assets/card-Portfolio-dark.svg" width="420" alt="Portfolio">
 </picture>
 </a>
 </td>
@@ -122,6 +122,6 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 | IGIAttendanceSystem | React, FastAPI | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
 | GIMS | Python, Tkinter | [repo](https://github.com/tahasheikh30/GIMS) |
 | GrabMeal | React, Node, Python | [repo](https://github.com/tahasheikh30/GrabMeal) |
-| PROJECT_FOUR | Python | [repo](https://github.com/tahasheikh30/PROJECT_FOUR) |
+| Portfolio | Python | [repo](https://github.com/tahasheikh30/Portfolio) |
 
 </sub>

@@ -11,6 +11,10 @@
     {
       "repo": "GrabMeal",
       "description": "An AI-Powered food delivery platform with a built-in financial management system for restaurants and homechefs."
+    },
+    {
+      "repo": "Portfolio",
+      "description": "My personal portfolio website built with React and Tailwind CSS."
     }
   ]
 }
