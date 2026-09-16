@@ -1,8 +1,6 @@
 {
   "projects": [
-    { "repo": "attendance-intelligence", "description": "React + FastAPI workforce analytics platform with live attendance dashboards." },
-    { "repo": "gims", "description": "Python/Tkinter desktop app automating Finance reconciliation workflows." },
-    { "repo": "speak-up", "description": "Microsoft Forms + Power Automate employee feedback and grievance system." },
-    { "repo": "reinsurance-automation", "description": "Extracts reinsurance claim data from incoming emails and mails reinsurers on a schedule." }
+    { "repo": "IGIAttendanceSystem", "description": "React + FastAPI workforce analytics platform with live attendance dashboards." },
+    { "repo": "GIMS", "description": "Python/Tkinter desktop app automating Finance reconciliation workflows." }
   ]
 }

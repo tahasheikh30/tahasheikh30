@@ -21,7 +21,7 @@ $ cat about.txt
 Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 
 - Currently building **[GIMS](https://github.com/tahasheikh30/GIMS)**
-- Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)**
+<!-- - Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)** -->
 - Learning **Project Management**
 - Fun fact: **The easiest way to impress me is bring me dessert**
 
