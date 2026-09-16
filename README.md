@@ -23,7 +23,7 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 - Currently building **[GIMS](https://github.com/tahasheikh30/GIMS)**
 <!-- - Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)** -->
 - Learning **Project Management**
-- Fun fact: **The easiest way to impress me is bring me dessert**
+- Fun fact: **The easiest way to impress me is by buying me dessert**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,react,fastapi,postgres,git,github,vscode,html,css&perline=9">
@@ -95,11 +95,11 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/tahasheikh30/PROJECT_THREE">
+<a href="https://github.com/tahasheikh30/GrabMeal">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-PROJECT_THREE-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-PROJECT_THREE-light.svg">
-  <img src="assets/card-PROJECT_THREE-dark.svg" width="420" alt="PROJECT_THREE">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-GrabMeal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-GrabMeal-light.svg">
+  <img src="assets/card-GrabMeal-dark.svg" width="420" alt="GrabMeal">
 </picture>
 </a>
 </td>
@@ -121,7 +121,7 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 |---|---|---|
 | IGIAttendanceSystem | React, FastAPI | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
 | GIMS | Python, Tkinter | [repo](https://github.com/tahasheikh30/GIMS) |
-| PROJECT_THREE | Power Automate, Forms | [repo](https://github.com/tahasheikh30/PROJECT_THREE) |
+| GrabMeal | React, Node, Python | [repo](https://github.com/tahasheikh30/GrabMeal) |
 | PROJECT_FOUR | Python | [repo](https://github.com/tahasheikh30/PROJECT_FOUR) |
 
 </sub>
