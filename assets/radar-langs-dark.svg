@@ -1,20 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440" width="440" height="440">
 <text x="220.0" y="28" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" font-weight="600" fill="#c9d1d9">Language Bytes</text>
-<polygon points="220.0,195.0 255.0,230.0 220.0,265.0 185.0,230.0" fill="none" stroke="#30363d" stroke-width="1" opacity="0.5"/>
-<polygon points="220.0,160.0 290.0,230.0 220.0,300.0 150.0,230.0" fill="none" stroke="#30363d" stroke-width="1" opacity="0.5"/>
-<polygon points="220.0,125.0 325.0,230.0 220.0,335.0 115.0,230.0" fill="none" stroke="#30363d" stroke-width="1" opacity="0.5"/>
-<polygon points="220.0,90.0 360.0,230.0 220.0,370.0 80.0,230.0" fill="none" stroke="#30363d" stroke-width="1" opacity="0.5"/>
+<polygon points="220.0,195.0 250.3,247.5 189.7,247.5" fill="none" stroke="#30363d" stroke-width="1" opacity="0.5"/>
+<polygon points="220.0,160.0 280.6,265.0 159.4,265.0" fill="none" stroke="#30363d" stroke-width="1" opacity="0.5"/>
+<polygon points="220.0,125.0 310.9,282.5 129.1,282.5" fill="none" stroke="#30363d" stroke-width="1" opacity="0.5"/>
+<polygon points="220.0,90.0 341.2,300.0 98.8,300.0" fill="none" stroke="#30363d" stroke-width="1" opacity="0.5"/>
 <line x1="220.0" y1="230.0" x2="220.0" y2="90.0" stroke="#30363d" stroke-width="1" opacity="0.5"/>
 <text x="220.0" y="64.0" text-anchor="middle" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#c9d1d9">Python (100)</text>
-<line x1="220.0" y1="230.0" x2="360.0" y2="230.0" stroke="#30363d" stroke-width="1" opacity="0.5"/>
-<text x="386.0" y="230.0" text-anchor="start" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#c9d1d9">JavaScript (86)</text>
-<line x1="220.0" y1="230.0" x2="220.0" y2="370.0" stroke="#30363d" stroke-width="1" opacity="0.5"/>
-<text x="220.0" y="396.0" text-anchor="middle" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#c9d1d9">CSS (66)</text>
-<line x1="220.0" y1="230.0" x2="80.0" y2="230.0" stroke="#30363d" stroke-width="1" opacity="0.5"/>
-<text x="54.0" y="230.0" text-anchor="end" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#c9d1d9">HTML (35)</text>
-<polygon points="220.0,90.0 341.0,230.0 220.0,323.0 171.1,230.0" fill="#39D353" fill-opacity="0.30" stroke="#39D353" stroke-width="2"/>
+<line x1="220.0" y1="230.0" x2="341.2" y2="300.0" stroke="#30363d" stroke-width="1" opacity="0.5"/>
+<text x="363.8" y="313.0" text-anchor="start" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#c9d1d9">HTML (40)</text>
+<line x1="220.0" y1="230.0" x2="98.8" y2="300.0" stroke="#30363d" stroke-width="1" opacity="0.5"/>
+<text x="76.2" y="313.0" text-anchor="end" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#c9d1d9">- (0)</text>
+<polygon points="220.0,90.0 267.9,257.6 220.0,230.0" fill="#39D353" fill-opacity="0.30" stroke="#39D353" stroke-width="2"/>
 <circle cx="220.0" cy="90.0" r="3.5" fill="#39D353"/>
-<circle cx="341.0" cy="230.0" r="3.5" fill="#39D353"/>
-<circle cx="220.0" cy="323.0" r="3.5" fill="#39D353"/>
-<circle cx="171.1" cy="230.0" r="3.5" fill="#39D353"/>
+<circle cx="267.9" cy="257.6" r="3.5" fill="#39D353"/>
+<circle cx="220.0" cy="230.0" r="3.5" fill="#39D353"/>
 </svg>
