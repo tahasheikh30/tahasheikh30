@@ -2,11 +2,10 @@
 
 <img src="assets/portrait.svg" width="180" alt="portrait">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Taha Sheikh;Management+Trainee+Officer;Building+things+that+save+people+time" alt="typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Taha+Sheikh;Management+Trainee+Officer;Building+things+that+save+people+time" alt="typing banner">
 
 <a href="https://linkedin.com/in/taha-sheikh-a3520921a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:tahasheikh30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
 <img src="https://komarev.com/ghpvc/?username=tahasheikh30&color=39d353&label=profile+views" alt="profile views">
 
@@ -21,7 +20,6 @@ $ cat about.txt
 Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 
 - Currently building **[GIMS](https://github.com/tahasheikh30/GIMS)**
-<!-- - Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)** -->
 - Learning **Project Management**
 - Fun fact: **The easiest way to impress me is by buying me dessert**
 
@@ -117,11 +115,11 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 
 <sub>
 
-| project | stack | link |
-|---|---|---|
-| IGIAttendanceSystem | React, FastAPI | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
-| GIMS | Python, Tkinter | [repo](https://github.com/tahasheikh30/GIMS) |
-| GrabMeal | React, Node, Python | [repo](https://github.com/tahasheikh30/GrabMeal) |
-| Portfolio | Python | [repo](https://github.com/tahasheikh30/Portfolio) |
+| project             | stack               | link                                                        |
+| ------------------- | ------------------- | ----------------------------------------------------------- |
+| IGIAttendanceSystem | React, FastAPI      | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
+| GIMS                | Python, Tkinter     | [repo](https://github.com/tahasheikh30/GIMS)                |
+| GrabMeal            | React, Node, Python | [repo](https://github.com/tahasheikh30/GrabMeal)            |
+| Portfolio           | Python              | [repo](https://github.com/tahasheikh30/Portfolio)           |
 
 </sub>
