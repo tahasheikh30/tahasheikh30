@@ -120,6 +120,6 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 | IGIAttendanceSystem | React, FastAPI      | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
 | GIMS                | Python, Tkinter     | [repo](https://github.com/tahasheikh30/GIMS)                |
 | GrabMeal            | React, Node, Python | [repo](https://github.com/tahasheikh30/GrabMeal)            |
-| Portfolio           | Python              | [repo](https://github.com/tahasheikh30/Portfolio)           |
+| Portfolio           | React, Tailwind     | [repo](https://github.com/tahasheikh30/Portfolio)           |
 
 </sub>
