@@ -2,10 +2,14 @@
 
 <table>
 <tr>
-<td width="200" align="center" valign="middle">
-<img src="assets/portrait.svg" width="180" alt="portrait">
+<td width="190" align="center">
+<br>
+<img src="assets/portrait.svg" width="160" alt="portrait">
+<br>
 </td>
-<td align="center" valign="middle">
+<td align="center">
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&height=50&lines=Taha+Sheikh;Management+Trainee+Officer;Building+things+that+save+people+time" alt="typing banner">
 
@@ -18,6 +22,8 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=tahasheikh30&color=39d353&label=profile+views" alt="profile views">
+
+<br><br>
 
 </td>
 </tr>
