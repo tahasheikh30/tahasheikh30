@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tahasheikh30&color=39d353&label=profile+views" alt="profile views">
+<img src="assets/badge-views.svg" alt="profile views">
 </p>
 
 </div>
