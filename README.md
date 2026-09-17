@@ -74,12 +74,6 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 </picture>
 
 <img src="assets/metrics.languages.svg" width="100%" alt="languages">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.achievements-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/metrics.achievements-light.svg">
-  <img src="assets/metrics.achievements-dark.svg" width="100%" alt="achievements">
-</picture>
 </div>
 
 ## Projects
