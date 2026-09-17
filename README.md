@@ -131,7 +131,7 @@ Based in Karachi, Pakistan.
 </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
 
 | Project                 | Stack                                                                                                                                                                                                                                                                                                     |                            Link                             |
 | :---------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------: |
@@ -140,4 +140,4 @@ Based in Karachi, Pakistan.
 | **GrabMeal**            | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |      [repo](https://github.com/tahasheikh30/GrabMeal)       |
 | **Portfolio**           | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)                                                                                            |      [repo](https://github.com/tahasheikh30/Portfolio)      |
 
-</div>
+</div> -->
