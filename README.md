@@ -1,14 +1,22 @@
 <div align="center">
 
+<p align="center">
 <img src="assets/portrait.svg" width="150" alt="portrait">
+</p>
 
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&height=50&lines=Taha+Sheikh;Management+Trainee+Officer;Building+things+that+save+people+time" alt="typing banner">
+</p>
 
+<p align="center">
 <a href="https://linkedin.com/in/taha-sheikh-a3520921a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:tahasheikh30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://taha-ahmed-sheikh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=tahasheikh30&color=39d353&label=profile+views" alt="profile views">
+</p>
 
 </div>
 
