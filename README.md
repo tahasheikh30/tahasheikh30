@@ -60,8 +60,6 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 ## Activity
 
 <div align="center">
-<img src="assets/metrics.calendar.svg" width="100%" alt="contribution calendar">
-
 <img src="https://raw.githubusercontent.com/tahasheikh30/tahasheikh30/output/snake-dark.svg#gh-dark-mode-only" width="100%" alt="snake">
 <img src="https://raw.githubusercontent.com/tahasheikh30/tahasheikh30/output/snake-light.svg#gh-light-mode-only" width="100%" alt="snake">
 </div>
