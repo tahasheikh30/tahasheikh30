@@ -121,13 +121,13 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 </tr>
 </table>
 
-<sub>
+<div align="center">
 
-| project             | stack               | link                                                        |
-| ------------------- | -------------------- | ----------------------------------------------------------- |
-| IGIAttendanceSystem | React, FastAPI      | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
-| GIMS                | Python, Tkinter     | [repo](https://github.com/tahasheikh30/GIMS)                |
-| GrabMeal            | React, Node, Python | [repo](https://github.com/tahasheikh30/GrabMeal)            |
-| Portfolio           | React, Tailwind     | [repo](https://github.com/tahasheikh30/Portfolio)           |
+| Project | Stack | Link |
+|:--|:--|:--:|
+| **IGIAttendanceSystem** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
+| **GIMS** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white) | [repo](https://github.com/tahasheikh30/GIMS) |
+| **GrabMeal** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [repo](https://github.com/tahasheikh30/GrabMeal) |
+| **Portfolio** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | [repo](https://github.com/tahasheikh30/Portfolio) |
 
-</sub>
+</div>
