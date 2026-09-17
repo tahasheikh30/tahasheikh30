@@ -31,6 +31,8 @@ jobs:
           filename: assets/metrics.achievements-dark.svg
           config_timezone: Asia/Karachi
           config_theme: dark
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
 
       - uses: lowlighter/metrics@latest
         with:
@@ -40,3 +42,5 @@ jobs:
           filename: assets/metrics.achievements-light.svg
           config_timezone: Asia/Karachi
           config_theme: default
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
