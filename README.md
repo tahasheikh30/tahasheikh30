@@ -1,13 +1,26 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="190" align="center">
 <img src="assets/portrait.svg" width="180" alt="portrait">
+</td>
+<td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Taha+Sheikh;Management+Trainee+Officer;Building+things+that+save+people+time" alt="typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&height=50&lines=Taha+Sheikh;Management+Trainee+Officer;Building+things+that+save+people+time" alt="typing banner">
+
+<br>
 
 <a href="https://linkedin.com/in/taha-sheikh-a3520921a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:tahasheikh30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=tahasheikh30&color=39d353&label=profile+views" alt="profile views">
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -64,8 +77,7 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
   <img src="assets/stats-dark.svg" alt="stats">
 </picture>
 
-<img src="assets/metrics.languages.svg" width="49%" alt="languages">
-<img src="assets/metrics.achievements.svg" width="49%" alt="achievements">
+<img src="assets/metrics.languages.svg" width="100%" alt="languages">
 </div>
 
 ## Projects
@@ -116,7 +128,7 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 <sub>
 
 | project             | stack               | link                                                        |
-| ------------------- | ------------------- | ----------------------------------------------------------- |
+| ------------------- | -------------------- | ----------------------------------------------------------- |
 | IGIAttendanceSystem | React, FastAPI      | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
 | GIMS                | Python, Tkinter     | [repo](https://github.com/tahasheikh30/GIMS)                |
 | GrabMeal            | React, Node, Python | [repo](https://github.com/tahasheikh30/GrabMeal)            |
