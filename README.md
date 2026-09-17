@@ -2,17 +2,18 @@
 
 <table>
 <tr>
-<td width="190" align="center">
+<td width="200" align="center" valign="middle">
 <img src="assets/portrait.svg" width="180" alt="portrait">
 </td>
-<td align="center">
+<td align="center" valign="middle">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&height=50&lines=Taha+Sheikh;Management+Trainee+Officer;Building+things+that+save+people+time" alt="typing banner">
 
-<br>
+<br><br>
 
-<a href="https://linkedin.com/in/taha-sheikh-a3520921a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:tahasheikh30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/taha-sheikh-a3520921a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:tahasheikh30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://taha-ahmed-sheikh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
 <br><br>
 
