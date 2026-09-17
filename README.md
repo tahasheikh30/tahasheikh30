@@ -39,7 +39,7 @@ Hi, I'm **Taha Ahmed Sheikh**, a Software Engineering graduate who builds techno
 Based in Karachi, Pakistan.
 
 - Currently building **[GIMS](https://github.com/tahasheikh30/GIMS)**
-- Learning **Project Management**
+- Learning **Project Management and AI & Automation**
 - Fun fact: **The easiest way to impress me is by buying me dessert**
 
 <div align="center">
