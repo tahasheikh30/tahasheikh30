@@ -28,7 +28,15 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
+Hi, I'm **Taha Ahmed Sheikh**, a Software Engineering graduate who builds technology that solves real business problems, not just technical ones.
+
+**What I do:** I design and build automation systems, analytics dashboards, and compliance tools, and I actively work with AI and agentic AI to make these systems smarter and more efficient. Recent work includes GIMS, a desktop automation system that replaced a recurring manual process at IGI General Takaful, Attendance Intelligence, a full-stack workforce analytics dashboard, and an account screening system that checks applicants against sanctions and adverse media sources. Alongside building, I manage projects end to end, planning scope, coordinating stakeholders, and keeping delivery on track.
+
+**Why I do it:** I like finding the point where a manual, repetitive process is quietly costing a team time, then building something, often AI driven, that removes it. Technology is most useful when it's a force multiplier for people, not just a feature. I make a habit of keeping up with new tools and techniques so the systems I build stay efficient and relevant.
+
+**How I can contribute:** I bring engineering skill (Python, JavaScript, React.js, Node.js, SQL, MongoDB, AI and agentic AI workflows), project management skills (Agile/Scrum, sprint planning, stakeholder management, risk management), and business fluency, so I can translate vague requirements into working systems, run the project that delivers them, and ship things that actually get used. I'm comfortable owning a project end to end, from requirements gathering through delivery.
+
+Based in Karachi, Pakistan.
 
 - Currently building **[GIMS](https://github.com/tahasheikh30/GIMS)**
 - Learning **Project Management**
@@ -129,11 +137,11 @@ Hi, I'm **Taha Ahmed Sheikh**. One or two lines about what you build and why.
 
 <div align="center">
 
-| Project | Stack | Link |
-|:--|:--|:--:|
-| **IGIAttendanceSystem** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
-| **GIMS** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white) | [repo](https://github.com/tahasheikh30/GIMS) |
-| **GrabMeal** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [repo](https://github.com/tahasheikh30/GrabMeal) |
-| **Portfolio** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | [repo](https://github.com/tahasheikh30/Portfolio) |
+| Project                 | Stack                                                                                                                                                                                                                                                                                                     |                            Link                             |
+| :---------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------: |
+| **IGIAttendanceSystem** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)                                                                                                  | [repo](https://github.com/tahasheikh30/IGIAttendanceSystem) |
+| **GIMS**                | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)                                                                                                 |        [repo](https://github.com/tahasheikh30/GIMS)         |
+| **GrabMeal**            | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |      [repo](https://github.com/tahasheikh30/GrabMeal)       |
+| **Portfolio**           | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)                                                                                            |      [repo](https://github.com/tahasheikh30/Portfolio)      |
 
 </div>
