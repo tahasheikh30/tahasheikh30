@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/taha-sheikh-a3520921a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/taha-sheikh-a3520921a"><img src="assets/badge-linkedin.svg" height="40" alt="LinkedIn"></a>
 &nbsp;&nbsp;
-<a href="mailto:tahasheikh30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:tahasheikh30@gmail.com"><img src="assets/badge-email.svg" height="40" alt="Email"></a>
 &nbsp;&nbsp;
-<a href="https://taha-ahmed-sheikh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://taha-ahmed-sheikh.vercel.app"><img src="assets/badge-portfolio.svg" height="40" alt="Portfolio"></a>
 </p>
 
 <p align="center">
