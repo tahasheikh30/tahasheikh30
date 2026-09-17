@@ -16,10 +16,6 @@
 <a href="https://taha-ahmed-sheikh.vercel.app"><img src="assets/badge-portfolio.svg" height="40" alt="Portfolio"></a>
 </p>
 
-<p align="center">
-<img src="assets/badge-views.svg" alt="profile views">
-</p>
-
 </div>
 
 ## `~/` whoami
