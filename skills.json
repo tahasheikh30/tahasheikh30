@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Python", "value": 85 },
+    { "label": "React", "value": 70 },
+    { "label": "FastAPI", "value": 75 },
+    { "label": "SQL", "value": 68 },
+    { "label": "Tkinter", "value": 72 },
+    { "label": "Power Automate", "value": 60 },
+    { "label": "DSA", "value": 60 }
+  ]
+}
