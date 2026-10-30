@@ -12,9 +12,9 @@
 <text x="220.0" y="396.0" text-anchor="middle" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#1f2328">HTML (38)</text>
 <line x1="220.0" y1="230.0" x2="80.0" y2="230.0" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
 <text x="54.0" y="230.0" text-anchor="end" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#1f2328">Python (20)</text>
-<polygon points="220.0,90.0 280.2,230.0 220.0,283.5 191.9,230.0" fill="#1a7f37" fill-opacity="0.30" stroke="#1a7f37" stroke-width="2"/>
+<polygon points="220.0,90.0 280.2,230.0 220.0,283.5 192.0,230.0" fill="#1a7f37" fill-opacity="0.30" stroke="#1a7f37" stroke-width="2"/>
 <circle cx="220.0" cy="90.0" r="3.5" fill="#1a7f37"/>
 <circle cx="280.2" cy="230.0" r="3.5" fill="#1a7f37"/>
 <circle cx="220.0" cy="283.5" r="3.5" fill="#1a7f37"/>
-<circle cx="191.9" cy="230.0" r="3.5" fill="#1a7f37"/>
+<circle cx="192.0" cy="230.0" r="3.5" fill="#1a7f37"/>
 </svg>
