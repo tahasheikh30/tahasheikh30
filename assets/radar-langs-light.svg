@@ -7,16 +7,16 @@
 <line x1="220.0" y1="230.0" x2="220.0" y2="90.0" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
 <text x="220.0" y="64.0" text-anchor="middle" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#1f2328">JavaScript (100)</text>
 <line x1="220.0" y1="230.0" x2="353.1" y2="186.7" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
-<text x="377.9" y="178.7" text-anchor="start" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#1f2328">Python (93)</text>
+<text x="377.9" y="178.7" text-anchor="start" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#1f2328">Python (95)</text>
 <line x1="220.0" y1="230.0" x2="302.3" y2="343.3" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
 <text x="317.6" y="364.3" text-anchor="start" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#1f2328">TypeScript (80)</text>
 <line x1="220.0" y1="230.0" x2="137.7" y2="343.3" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
 <text x="122.4" y="364.3" text-anchor="end" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#1f2328">CSS (51)</text>
 <line x1="220.0" y1="230.0" x2="86.9" y2="186.7" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
 <text x="62.1" y="178.7" text-anchor="end" dominant-baseline="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#1f2328">HTML (37)</text>
-<polygon points="220.0,90.0 344.1,189.7 285.6,320.3 178.3,287.4 170.6,213.9" fill="#1a7f37" fill-opacity="0.30" stroke="#1a7f37" stroke-width="2"/>
+<polygon points="220.0,90.0 346.8,188.8 285.6,320.3 178.3,287.4 170.6,213.9" fill="#1a7f37" fill-opacity="0.30" stroke="#1a7f37" stroke-width="2"/>
 <circle cx="220.0" cy="90.0" r="3.5" fill="#1a7f37"/>
-<circle cx="344.1" cy="189.7" r="3.5" fill="#1a7f37"/>
+<circle cx="346.8" cy="188.8" r="3.5" fill="#1a7f37"/>
 <circle cx="285.6" cy="320.3" r="3.5" fill="#1a7f37"/>
 <circle cx="178.3" cy="287.4" r="3.5" fill="#1a7f37"/>
 <circle cx="170.6" cy="213.9" r="3.5" fill="#1a7f37"/>
